@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Najib732
 
-- 👀 I’m interested in **C# development**, **web development**, and **software engineering**.
+- 👀 I’m interested in **C# development**, **web development**.
 - 🌱 I’m currently learning **web development** and improving my skills in **JavaScript** and **React**.
 - 💞️ I’m looking to collaborate on **open-source projects** or any **exciting web applications**.
 - 📫 How to reach me: [Email me](mailto:najibmahfuj24@gmail.com)
