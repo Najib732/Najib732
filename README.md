@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **web development** and improving my skills in **JavaScript** .
 - 💞️ I’m looking to collaborate on **open-source projects** or any **exciting web applications**.
 - 📫 How to reach me: [Email me](mailto:najibmahfuj24@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...!
+-  Pronouns: He/Him
+
 
 <!---
 Najib732/Najib732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
