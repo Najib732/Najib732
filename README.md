@@ -1,7 +1,7 @@
  Hi, I’m Najib Mahfuj
  
  Backend-focused Computer Science student passionate about building scalable web applications.
-  - Currently working with ASP.NET Core, Spring Boot, and React
+  - Currently working with ASP.NET Core and React
   - Strengthening my foundation in Data Structures & Algorithms
   - Interested in Backend Development, REST APIs, and Clean Architecture
   - Exploring Machine Learning alongside full-stack development
