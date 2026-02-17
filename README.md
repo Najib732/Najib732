@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @Najib732
 
-- 👀 I’m interested in **Spring Boot**, **JavaScript**,**.Net FrameWork**.
-- 🌱 I’m currently learning **web development** and improving my skills in **spring boot**, **JavaScript** .
-- 💞️ I’m looking to collaborate on **open-source projects** or any **exciting web applications**.
-- 📫 How to reach me: [Email me](mailto:najibmahfuj22@gmail.com)
+- I’m interested in **.Net FrameWork**, **Spring Boot** , **JavaScript**.
+- I’m currently learning **web development** and improving my skills in **ASP .net Core**, **JavaScript** .
+- I’m looking to collaborate on **open-source projects** or any **exciting web applications**.
+- How to reach me: [Email me](mailto:najibmahfuj22@gmail.com)
 -  Pronouns: He/Him
 
 
