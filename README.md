@@ -1,11 +1,11 @@
-# 👋 Hi, I’m @Najib732
-
-- I’m interested in **.Net FrameWork**, **Spring Boot** , **JavaScript**.
-- I’m currently learning **web development** and improving my skills in **ASP .net Core**, **JavaScript** .
-- I’m looking to collaborate on **open-source projects** or any **exciting web applications**.
-- How to reach me: [Email me](mailto:najibmahfuj22@gmail.com)
--  Pronouns: He/Him
-
+ Hi, I’m Najib Mahfuj
+ Backend-focused Computer Science student passionate about building scalable web applications.
+  - Currently working with ASP.NET Core, Spring Boot, and React
+  - Strengthening my foundation in Data Structures & Algorithms
+  - Interested in Backend Development, REST APIs, and Clean Architecture
+  - Exploring Machine Learning alongside full-stack development
+  - Open to collaborating on open-source projects and impactful web applications
+  - Reach me at: najibmahfuj22@gmail.com
 
 <!---
 Najib732/Najib732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
