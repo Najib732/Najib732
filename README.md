@@ -23,49 +23,21 @@ Backend-focused Software Engineering Intern with a deep interest in the **.NET e
 
 ### 💼 Professional Experience
 
-#### **Software Engineering Intern**  
-**Bangla Fire Solution Ltd.** | *April 2026 – Present*  
-*   Architecting and refining **RESTful API endpoints** using ASP.NET Core following Layered Architecture.
-*   Seamlessly integrating backend logic with **Flutter mobile applications**, handling JSON serialization and state synchronization.
-*   Optimizing database queries and resolving CRUD inconsistencies to boost system stability.
+> **Software Engineering Intern** | **BanglaFire Solution Ltd.**
+> *April 2026 – Present • Dhaka, Bangladesh*
+
+*   **API Orchestration:** Architecting high-performance **RESTful endpoints** using ASP.NET Core, implementing a strict **Layered Architecture** to ensure clean separation of concerns.
+*   **Full-Stack Integration:** Bridging complex backend logic with **Flutter mobile interfaces**, optimizing data flow via custom JSON serialization and robust state management.
+*   **System Optimization:** Refactored legacy CRUD operations to improve database query efficiency and system stability.
+*   **Agile Development:** Collaborating in a professional environment using **Git/GitHub** workflows and participating in iterative code reviews.
 
 ---
 
-### 🚀 Key Projects
-
-#### [**Pharmacy Inventory System**](https://github.com/Najib732/.Net_Api_Project)  
-*ASP.NET Core, EF Core, MySQL*  
-*   Developed a scalable backend using **Clean Architecture** to decouple business logic from data access.
-*   Implemented **Optimistic Concurrency Control** to prevent stock inconsistencies during simultaneous transactions.
-
-#### **Digital Vault**  
-*ASP.NET Core, PostgreSQL, Flutter*  
-*   Full-stack system with **JWT-based Role-Based Access Control (RBAC)**.
-*   Engineered a secure relational schema for storing digital assets with seamless Flutter integration.
-
-#### [**E-Commerce Platform**](https://github.com/Najib732/FullStack-E-Commerce-)  
-*NestJS, React, Next.js*  
-*   Built a modular backend leveraging NestJS **Dependency Injection**.
-*   Implemented server-side rendering (SSR) for SEO and performance.
-
----
-
-### 🎓 Education & Certifications
+### 🎓 Education & Achievements
 
 *   **B.Sc. in Computer Science & Engineering**  
     *American International University–Bangladesh (AIUB)* | **CGPA: 3.76** (2022 – 2026)  
-    *   **Award:** Dean’s Award for Academic Excellence.
-*   **Competitive Programming:** Solved **100+ problems** on LeetCode & CodeChef, specializing in Data Structures & Algorithms.
+    *   🏆 **Dean’s Award for Academic Excellence**
+*   **Problem Solving:** Solved **100+ problems** on LeetCode & CodeChef, focusing on **Data Structures & Algorithms (DSA)** and optimization.
 
 ---
-
-### 📊 GitHub Activity
-![Najib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najib732&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najib732&layout=compact&theme=dark)
-
----
-
-### 📫 Get In Touch
-*   **LinkedIn:** [linkedin.com/in/najibmahfuj](https://www.linkedin.com/in/najibmahfuj/)
-*   **Portfolio:** [Digital Vault Project](https://github.com/Najib732)
-
